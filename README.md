@@ -2,6 +2,8 @@
 
 A scalable and reusable React web app built with Vite and styled using vanilla CSS. This project demonstrates advanced React patterns such as compound components, Context API with custom hooks, render props, and performance optimizations like debouncing.
 
+![Project Screenshot](src/assets/UI-screenshot.png)
+
 ## 🚀 Features
 
 - **Compound Components Pattern**  
